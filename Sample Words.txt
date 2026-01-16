@@ -1,0 +1,35 @@
+Bonjour||Hello||Bonjour, comment ça va ?||Hello, how are you?
+Merci beaucoup||Thank you very much||Merci beaucoup pour votre aide.||Thank you very much for your help.
+S’il vous plaît||Please||Un café, s’il vous plaît.||A coffee, please.
+Excusez-moi||Excuse me||Excusez-moi, où sont les toilettes ?||Excuse me, where are the toilets?
+Je suis désolé||I am sorry||Je suis désolé pour le retard.||I am sorry for the delay.
+À bientôt||See you soon||À bientôt, à demain.||See you soon, see you tomorrow.
+D’accord||Alright||D’accord, je comprends.||Alright, I understand.
+Pas de problème||No problem||Pas de problème, je m’en occupe.||No problem, I will take care of it.
+Bonne journée||Have a good day||Bonne journée et à bientôt.||Have a good day and see you soon.
+Bonne soirée||Have a good evening||Bonne soirée à vous.||Have a good evening.
+Je ne comprends pas||I don’t understand||Je ne comprends pas la question.||I don’t understand the question.
+Pouvez-vous répéter ?||Can you repeat?||Pouvez-vous répéter, s’il vous plaît ?||Can you repeat, please?
+Parlez-vous anglais ?||Do you speak English?||Parlez-vous anglais ici ?||Do you speak English here?
+Combien ça coûte ?||How much does it cost?||Combien ça coûte en tout ?||How much does it cost in total?
+C’est trop cher||It is too expensive||C’est trop cher pour moi.||It is too expensive for me.
+Je cherche…||I am looking for…||Je cherche la gare.||I am looking for the train station.
+Où est… ?||Where is…?||Où est le métro ?||Where is the metro?
+J’ai besoin de…||I need…||J’ai besoin d’aide.||I need help.
+Pas maintenant||Not now||Pas maintenant, merci.||Not now, thank you.
+Tout de suite||Right away||J’arrive tout de suite.||I am coming right away.
+C’est possible||It is possible||Oui, c’est possible aujourd’hui.||Yes, it is possible today.
+Ce n’est pas possible||It is not possible||Ce n’est pas possible ce soir.||It is not possible tonight.
+Je pense que…||I think that…||Je pense que c’est une bonne idée.||I think that it is a good idea.
+Je crois que…||I believe that…||Je crois que vous avez raison.||I believe that you are right.
+Ça dépend||It depends||Ça dépend du prix.||It depends on the price.
+Bien sûr||Of course||Bien sûr, aucun problème.||Of course, no problem.
+Pourquoi ?||Why?||Pourquoi tu pars ?||Why are you leaving?
+Parce que||Because||Parce que je travaille demain.||Because I work tomorrow.
+Peut-être||Maybe||Peut-être demain.||Maybe tomorrow.
+Je suis fatigué||I am tired||Je suis fatigué après le travail.||I am tired after work.
+J’ai faim||I am hungry||J’ai faim, on mange ?||I am hungry, shall we eat?
+J’ai soif||I am thirsty||J’ai soif, je veux de l’eau.||I am thirsty, I want water.
+C’est bon||It’s good||C’est bon, merci.||It’s good, thank you.
+C’est fini||It’s finished||C’est fini pour aujourd’hui.||It’s finished for today.
+À tout à l’heure||See you later||À tout à l’heure au bureau.||See you later at the office.
